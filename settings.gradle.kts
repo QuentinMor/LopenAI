@@ -1,0 +1,1 @@
+rootProject.name = "openai_test_unitaire_code"
