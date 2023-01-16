@@ -15,7 +15,7 @@
         <properties/>
         <border type="none"/>
         <children>
-          <component id="2f2f4" class="javax.swing.JTree" binding="tree1" default-binding="true">
+          <component id="2f2f4" class="javax.swing.JTree" binding="tree" default-binding="true">
             <constraints/>
             <properties/>
           </component>
